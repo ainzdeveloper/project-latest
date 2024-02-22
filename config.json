@@ -1,0 +1,24 @@
+{
+    "author": "Ainz",
+    "approval": false,
+    "DeveloperMode": false,
+    "language": "en",
+    "BOTOWNER": "Ainz Developer",
+    "BOTNAME": "ainz",
+    "note": "make sure that the bot name is all lowercase",
+    "PREFIX": "/",
+    "OPERATOR": [
+        "100092359574131"
+    ],
+    "ADMINBOT": [
+        "100092359574131"
+    ],
+    "OWNERLINK": "https://www.facebook.com/profile.php?id=100092359574131",
+    "OWNERNAME": "Ber",
+    "notifications": false,
+    "autoAcceptMessage": false,
+    "autoCreateDB": true,
+    "encryptSt": false,
+    "commandDisabled": [],
+    "eventDisabled": []
+}

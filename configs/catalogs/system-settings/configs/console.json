@@ -1,0 +1,24 @@
+{
+  "note": "config the console output and loaders here!",
+  "console": {
+    "success": "green",
+    "error": "red",
+    "warn": "yellow",
+    "available": "blue, red, yellow, white, green, blueBright",
+    "editNames": {
+      "success": "[ 𝚂𝚈𝚂𝚃𝙴𝙼 ]",
+      "error": "[ 𝙴𝚁𝚁𝙾𝚁 ]",
+      "warn": "[ 𝚆𝙰𝚁𝙽𝙸𝙽𝙶 ]"
+    }
+  },
+  "logger": {
+    "colors": {
+      "cmdLoader": "blue",
+      "evntLoader": "blue"
+    },
+    "strings": {
+      "cmdLoader": "[ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 ]",
+      "evntLoader": "[ 𝙴𝚅𝙴𝙽𝚃 ]"
+    }
+  }
+}
